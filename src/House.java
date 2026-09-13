@@ -9,6 +9,8 @@ public class House {
     public House(int floors, int rooms, int bedrooms, int bathrooms,
                  boolean garage, boolean garden) {
 
+        
+        
         this.floors = floors;
         this.rooms = rooms;
         this.bedrooms = bedrooms;
